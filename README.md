@@ -1,6 +1,8 @@
 ### Hi Everyone 👋
 #### Welcome to my github. I'm now updating my github. So, something will be a bit messy. 
-> I'm a (senior) sales engineer with under improving my coding technique.
+Now I'm working as a Angular Developer.
+
+> I was a (senior) sales engineer with under improving my coding technique.
 * Sales
   * Communication - coordination 
   * Logical thinking
