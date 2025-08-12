@@ -1,8 +1,8 @@
 ### Hi Everyone 👋
-- Experience
-> I'm currently a full-stack developer at start-up company.
-> I was angular developer at ERP system company.
-> I was a (senior) sales engineer at trading company.
+> Experience
+- I'm currently a full-stack developer at start-up company.
+- I was angular developer at ERP system company.
+- I was a (senior) sales engineer at trading company.
 
 <!--
 **Jarimnark/Jarimnark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
